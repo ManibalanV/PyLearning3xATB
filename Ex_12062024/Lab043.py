@@ -9,3 +9,10 @@ for i in range(10): # 0 to 9
 
 # range(start, stop, step)
 
+print("------------------------------")
+for i in range(3, 5):
+    print(i)
+
+print("------------------------------")
+for i in range(1, 10, 2):
+    print(i)

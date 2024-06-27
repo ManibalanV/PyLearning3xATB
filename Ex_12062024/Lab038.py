@@ -1,4 +1,4 @@
-# Conditions in Loop
+# Conditions and Loop
 
 #If Else
 
@@ -11,3 +11,14 @@ elif x > y:
     print("x is greater than y")
 else:
     print("x is equal to y")
+
+#-------------------------
+
+age = int(input("Enter your Age: "))
+
+if age > 18:
+    print("Go to club")
+else:
+    print("Not allowed")
+
+
